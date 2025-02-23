@@ -13,9 +13,8 @@
 - 📡 API Development | Web Scraping  
 - 🧠 AI & Machine Learning | NLP
 
-## 🚀 My Tech Stack
-**Languages & Frameworks:**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bunnyinfy&layout=compact&theme=radical)  
+## 🔥 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bunnyinfy&show_icons=true&theme=radical)
 
 ## 📬 Have Something to share?Lets Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/penugondasrinivas88/)    
