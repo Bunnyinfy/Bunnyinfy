@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Bunnyinfy 🚀
+# Hi there! 👋 I'm Srinivas Penugonda 🚀
 
 ## 💻 About Me
 🎓 Currently pursuing 4th year in B.Tech in AI & ML  
