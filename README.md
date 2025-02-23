@@ -5,11 +5,6 @@
 🔬 Passionate about AI, Web3, and Backend  
 🛠️ Backend , Blockchain Developer and Machine Learning Engineer
 
-
-## 🚀 My Tech Stack
-**Languages & Frameworks:**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bunnyinfy&layout=compact&theme=radical)
-
 **Tools & Technologies:**
 - 🐍 Python | Node.js | TypeScript | JavaScript
 - ⚛️ React | Next.js | Express.js
