@@ -11,7 +11,11 @@
 - 📦 MongoDB | PostgreSQL | Firebase
 - 🔗 Blockchain (Solana, Web3.js, Ether.js)
 - 📡 API Development | Web Scraping  
-- 🧠 AI & Machine Learning | NLP  
+- 🧠 AI & Machine Learning | NLP
+
+## 🚀 My Tech Stack
+**Languages & Frameworks:**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bunnyinfy&layout=compact&theme=radical)  
 
 ## 📬 Have Something to share?Lets Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/penugondasrinivas88/)    
