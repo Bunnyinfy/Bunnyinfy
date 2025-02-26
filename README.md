@@ -12,7 +12,9 @@
 - Blockchain (Solana, Web3.js, Ether.js)
 - API Development | Web Scraping  
 - AI & Machine Learning | NLP
-  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bunnyinfy&layout=compact&theme=dark) 
+
 ## Have Something to share?Lets Connect!
 - [LinkedIn](https://www.linkedin.com/in/penugondasrinivas88/)    
 - Email: penugondasrinivas20@gmail.com
