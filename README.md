@@ -5,8 +5,6 @@
     <a href="https://readme-typing-svg.demolab.com?font=&pause=7&center=false&vCenter=true&width=450&lines=Full+Stack+Developer;Python+Backend+Developer;NodeJS+Developer;Freelancer;" target="blank"> 
         <img src="https://readme-typing-svg.demolab.com?font=&pause=1000&center=false&vCenter=true&width=450&lines=Full+Stack+Developer;Python+Backend+Developer;NodeJS+Developer;Prompt+Engineer;AI+Model+Development;Freelancer" alt="lucky" />
     </a>
-        <img src="https://readme-typing-svg.demolab.com?font=&pause=1000&center=false&vCenter=true&width=450&lines=Full+Stack+Developer;Python+Backend+Developer;NodeJS+Developer;Prompt+Engineer;AI+Model+Development;Freelancer" alt="lucky" />
-    </a>
 </div>
 
 <table>
