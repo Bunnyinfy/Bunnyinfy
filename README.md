@@ -23,5 +23,5 @@
 - **Others:** API Development | Web Scraping | AI & Machine Learning | NLP  
 
 ## 🌍 Let's Connect!
-[!}[LinkedIn](https://www.linkedin.com/in/penugondasrinivas88/)  
+[!][LinkedIn](https://www.linkedin.com/in/penugondasrinivas88/)  
 **Email:** penugondasrinivas20@gmail.com  
