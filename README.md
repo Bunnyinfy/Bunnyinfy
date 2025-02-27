@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Penugonda Srinivas Babu </h1>
+<h1 align="center">Hi 👋, I'm Srinivas Penugonda </h1>
 <table>
   <tr>
     <td>
