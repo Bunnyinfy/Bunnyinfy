@@ -20,7 +20,10 @@
 - **Frameworks & Libraries:** React | Next.js | Express.js  
 - **Databases:** MongoDB | PostgreSQL | Firebase  
 - **Blockchain:** Solana | Web3.js | Ether.js  
-- **Others:** API Development | Web Scraping | AI & Machine Learning | NLP  
+- **Others:** API Development | Web Scraping | AI & Machine Learning | NLP
+  
+### 🏆 My Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bunnyinfy&layout=compact&theme=radical)
 
 ## 🌍 Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/penugondasrinivas88/)  
