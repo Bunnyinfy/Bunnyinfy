@@ -22,10 +22,6 @@
 - **Blockchain:** Solana | Web3.js | Ether.js  
 - **Others:** API Development | Web Scraping | AI & Machine Learning | NLP
   
-### 🏆 My Most Used Languages
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bunnyinfy&layout=compact&theme=tokyonight)
-
-
 ## 🌍 Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/penugondasrinivas88/)  
 **Email:** penugondasrinivas20@gmail.com  
