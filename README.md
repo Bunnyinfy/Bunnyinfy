@@ -18,7 +18,7 @@
 ### 🚀 Tools & Technologies  
 - **Languages:** Python | Node.js | TypeScript | JavaScript  
 - **Frameworks & Libraries:** React | Next.js | Express.js  
-- **Databases:** MongoDB | PostgreSQL | Firebase  
+- **Databases:** MongoDB | PostgreSQL | Firebase | MySQL  
 - **Blockchain:** Solana | Web3.js | Ether.js  
 - **Others:** API Development | Web Scraping | AI & Machine Learning | NLP
   
