@@ -16,7 +16,7 @@
 </table>
 
 ### 🚀 Tools & Technologies  
-- **Languages:** Python | Node.js | TypeScript | JavaScript  
+- **Languages:** Python | Node.js | TypeScript | JavaScript | Java
 - **Frameworks & Libraries:** React | Next.js | Express.js  
 - **Databases:** MongoDB | PostgreSQL | Firebase | MySQL  
 - **Blockchain:** Solana | Web3.js | Ether.js  
