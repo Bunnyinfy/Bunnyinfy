@@ -20,7 +20,7 @@
 - **Frameworks & Libraries:** React | Next.js | Node.js | Express.js 
 - **Databases:** MongoDB | PostgreSQL | Firebase | MySQL  
 - **Blockchain:** Solana | Web3.js | Ether.js  
-- **Others:** API Development | Web Scraping | AI & Machine Learning | NLP | Semantic Web
+- **Others:**SDLC | Web Scraping | AI & Machine Learning | NLP | Semantic Web
   
 ## 🌍 Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/penugondasrinivas88/)  
